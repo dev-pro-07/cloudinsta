@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer
-      style={{ backgroundColor: "#FF6B6B" }}
+      style={{ backgroundColor: "#8bb6ac" }}
       className="  text-white py-6 px-16 font-sans tracking-wide"
     >
       <div className="flex justify-between items-center max-lg:flex-col text-center flex-wrap gap-4">

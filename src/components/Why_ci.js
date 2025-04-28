@@ -8,12 +8,12 @@ function WhyCI() {
         <hr className="flex-grow border-t-2 border-gray-300" />
         <MdPsychology
           className="mx-4  text-3xl sm:text-4xl"
-          style={{ color: "#FF6B6B" }}
+          style={{ color: "#8bb6ac" }}
         />
         <hr className="flex-grow border-t-2 border-gray-300" />
       </div>
       <h1 class="text-3xl sm:text-4xl md:text-5xl  text-center lg:text-6xl font-extrabold leading-tight text-black dark:text-black pt-4">
-        Why customer choose <span style={{ color: "#FF6B6B" }}>Cloudi?</span>
+        Why customer choose <span style={{ color: "#8bb6ac" }}>Cloudi?</span>
       </h1>
       <section className="text-gray-600 body-font">
         <div className="container px-1 py-6 mx-auto flex flex-wrap">
