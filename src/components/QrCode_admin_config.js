@@ -16,7 +16,7 @@ function App() {
     }
 
     // Generate QR code URL using employee ID (eid)
-    const qrCodeURL = `https://cloudinsta24-india.firebaseapp.com/employee/${eid}`;
+    const qrCodeURL = `http://3.110.170.126:3000/employee/${eid}`;
 
     // Set the generated QR code URL
     setQrCode(qrCodeURL);
